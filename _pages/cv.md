@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-2015.8-2016.8 Research Assistant II, Woods Hole Oceanographic Institution
-2015.5-2015.8 Intern, Woods Hole Partnership Education Program
-2014.5-2014.8 NSF-REU Intern, Central Caribbean Marine Institute
-2013.5-2015.5 Course Assistant, Earth Institute at Columbia University
-2012.-2014.5 Lab Assistant, Lamont Doherty Earth Observatory
+2015.8-2016.8 Research Assistant II, Woods Hole Oceanographic Institution.   
+2015.5-2015.8 Intern, Woods Hole Partnership Education Program.   
+2014.5-2014.8 NSF-REU Intern, Central Caribbean Marine Institute.      
+2013.5-2015.5 Course Assistant, Earth Institute at Columbia University.   
+2012.-2014.5 Lab Assistant, Lamont Doherty Earth Observatory.   
 
 Publications
 ======

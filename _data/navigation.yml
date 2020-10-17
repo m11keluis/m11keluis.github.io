@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects.md/
+  - title: "Research"
+    url: /research/
 
-  - title: "Publications"
-    url: /publications/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching and Service"
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/

@@ -45,7 +45,7 @@
   }
 
   img {
-    width: 100%;
+    width: 0%;
   }
 }
 
@@ -80,7 +80,7 @@
     display: block;
     width: auto;
     height: auto;
-  }
+  } /*
 
   img {
     max-width: 175px;
@@ -90,7 +90,7 @@
       padding: 5px;
       border: 1px solid $border-color;
     }
-  }
+  } */
 }
 
 .author__content {

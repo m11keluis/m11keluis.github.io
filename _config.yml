@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kelly Luis"
-  avatar           : "main.jpg"
+  avatar           : main.jpg
   bio              : "PhD Candidate in Marine Science and Technology at UMass-Boston"
   location         : "Boston, Massachusetts"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/m11keluis"
+  github           : "m11keluis"
   google_plus      :
   keybase          :
   instagram        :
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true

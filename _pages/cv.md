@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here](/files/Luis_CV.pdf)
+Download CV [here](/files/Luis_CV_210712.pdf)
 
 
